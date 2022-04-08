@@ -9,10 +9,25 @@ body {
     background-image: url(/static/images/title.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 275px;
+    height: 285px;
     color: white;
+    
+}
+.div-header {
+    text-align: center;
 }
 
+#title-header {
+    padding-top: 40px;
+    /* font-size: 5rem; */
+    line-height: 1.5;
+}
+
+#title-header b {
+    font-size: 2.5rem;
+}
+
+ /* general background sections */
 .colored-section {
     background-color: #DBD79B
 }
@@ -22,18 +37,9 @@ body {
 
 }
 
-.div-header {
-    text-align: center;
-}
-
-#title-header {
-    padding-top: 40px;
-    font-size: 5rem;
-    line-height: 1.5;
-}
-
-#title-header b {
-    font-size: 2.5rem;
+.second-section {
+    background-color: #DBD79B;
+    padding-bottom: 3%;
 }
 
 /* Navbar */
@@ -60,16 +66,11 @@ body {
 }
 
 .navbar-brand {
-    color: #4D5C57
+    color: #4D5C57;
+    padding-left: 1%;
 }
 
 /* content */
-
-.second-section {
-    background-color: #DBD79B;
-    padding-bottom: 3%;
-}
-
 
 .card-text {
     font-size: 1.2rem;
@@ -78,6 +79,8 @@ body {
 .space-between-cards {
     padding: 1%;
     background-color: #DBD79B;
-
 }
 
+.btn {
+    background-color: #4D5C57;
+}
