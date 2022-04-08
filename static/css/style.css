@@ -1,0 +1,83 @@
+body {
+    background-color: #4D5C57;
+}
+
+
+/* Title */
+
+.section-title {
+    background-image: url(/static/images/title.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 275px;
+    color: white;
+}
+
+.colored-section {
+    background-color: #DBD79B
+}
+
+.colored-footer {
+    background-color: #4D5C57;
+
+}
+
+.div-header {
+    text-align: center;
+}
+
+#title-header {
+    padding-top: 40px;
+    font-size: 5rem;
+    line-height: 1.5;
+}
+
+#title-header b {
+    font-size: 2.5rem;
+}
+
+/* Navbar */
+.nav-link {
+    font-size: 1.25rem;
+}
+
+#mainNav {
+    background-color: #DBD79B;
+    color: #4D5C57;
+}
+
+.nav-container {
+    padding-right: 0%;
+    padding-left: 0%;
+}
+
+.nav-link {
+    color: #4D5C57;
+}
+
+.nav-section {
+    background-color: #DBD79B;
+}
+
+.navbar-brand {
+    color: #4D5C57
+}
+
+/* content */
+
+.second-section {
+    background-color: #DBD79B;
+    padding-bottom: 3%;
+}
+
+
+.card-text {
+    font-size: 1.2rem;
+}
+
+.space-between-cards {
+    padding: 1%;
+    background-color: #DBD79B;
+
+}
+
