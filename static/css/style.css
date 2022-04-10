@@ -76,11 +76,15 @@ body {
     font-size: 1.2rem;
 }
 
-.space-between-cards {
-    padding: 1%;
+.space-between-posts {
+    padding: 0.5%;
     background-color: #DBD79B;
 }
 
 .btn {
     background-color: #4D5C57;
+}
+
+.footer-container {
+    padding-top: 1%;
 }
